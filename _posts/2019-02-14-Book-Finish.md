@@ -4,7 +4,7 @@ date: 2019-02-14 21:26:00 +0900
 categories: 독서 독서/2
 ---
 
-![image](./Book-Finish.jpg)
+![image](/_images/Book-Finish.jpg)
 
 2월에 읽은 책 Finish! 2018년 언제 한번 읽고나서 두번째로 읽었다.
 
