@@ -4,7 +4,6 @@ date: 2019-02-15 10:39:00 +0900
 categories: Programming Learning Web
 ---
 
-[바로가기](https://developerkhj.github.io/WEB-Practice/index.html)
-
+<a href="https://developerkhj.github.io/WEB-Practice/index.html" target="_blank"> 바로가기 </a>
 
 주소로 접속하면 현재 공부중인 WEB 구축 현황을 보실 수 있습니다.
