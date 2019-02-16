@@ -6,8 +6,8 @@ comments: true
 ---
 제 블로그에 댓글, 구글 애널리스틱 기능을 추가하였습니다.
 
-
-![image](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/google-analytic.png?raw=true)
+<!--
+![image](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/google-analytic.png?raw=true)-->
 
 크롬, 사파리로 접속한 결과 사용자가 2명 뜨는 것을 볼 수 있다. 이 숫자가 실시간으로 5명만 되도 엄청나게 많은 걸텐데(개인블로그를..) 그런 날이 올 수 있을까?
 
