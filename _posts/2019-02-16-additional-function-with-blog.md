@@ -7,4 +7,4 @@ comments: true
 제 블로그에 댓글, 구글 애널리스틱 기능을 추가하였습니다.
 
 
-![image](DeveloperKHJ.github.io/_images/google-analytic.png)
+![image](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/google-analytic.png)
