@@ -6,5 +6,5 @@ comments: true
 ---
 제 블로그에 댓글, 구글 애널리스틱 기능을 추가하였습니다.
 
-*ctrl + click! ->*
-[인스타그램 바로가기](https://www.instagram.com/66challenge_khj/?hl=ko)
+
+![image](DeveloperKHJ.github.io/_images/google-analytic.png)
