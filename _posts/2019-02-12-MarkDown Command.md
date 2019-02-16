@@ -2,6 +2,7 @@
 title: "Markdown 커맨드 정리"
 date: 2019-02-12 23:23:00 +0900
 categories: Programming MarkDown
+comments: true
 ---
 
 

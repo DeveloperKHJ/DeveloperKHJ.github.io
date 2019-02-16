@@ -1,7 +1,8 @@
 ---
 title: "목표를 완수하는 방법 Finish"
 date: 2019-02-14 21:26:00 +0900
-categories: 독서 독서/2
+categories: 독서 독서/2월
+comments: true
 ---
 
 ![image](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/Book-Finish.jpg?raw=true)

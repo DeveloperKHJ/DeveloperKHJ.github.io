@@ -2,6 +2,7 @@
 title: "앞으로의 공부 커리큘럼"
 date: 2019-02-13 23:39:00 +0900
 categories: Programming CVS
+comments: true
 ---
 
 1. HTML + CSS + Javascript 기초를 빨리 뗀다.

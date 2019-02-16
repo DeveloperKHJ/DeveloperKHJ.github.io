@@ -2,6 +2,7 @@
 title: "생활코딩 공부중! 공부 웹페이지 개설"
 date: 2019-02-15 10:39:00 +0900
 categories: Programming Learning Web
+comments: true
 ---
 
 <a href="https://developerkhj.github.io/WEB-Practice/index.html" target="_blank"> 바로가기 </a>
