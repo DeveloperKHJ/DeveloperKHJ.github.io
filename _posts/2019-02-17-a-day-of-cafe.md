@@ -16,7 +16,7 @@ comments: true
 
 
 
-![ccl-inside](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/ccl-inside.jpg)
+![ccl-inside](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/ccl-inside.jpg?raw=true)
 우선 제가 살고있는 계양구에 있는 커피랑 도서관은 인천에 딱 하나있는 지점입니다.
 
 가까운곳에 이런 매장이 있다는게 행운이죠. 매장 전경입니다. 자리도 넉넉하고 다인실도 2개가 배치되어 있습니다.
@@ -25,7 +25,7 @@ comments: true
 
 독서실용 좌석, 오픈형 테이블 좌석, 원 테이블 좌석 등등 옵션이 많습니다.
 
-![ccl-coffe](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/ccl-cup-of-coffe.jpg)
+![ccl-coffe](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/ccl-cup-of-coffe.jpg?raw=true)
 또한 책장에 책들도 여러개 있어서 마음대로 볼 수 있습니다. 그래도 제일 좋은 장점은 배치되어있는 음료들을 무제한으로 마실 수 있다는 건데요.
 
 제가 방문한 계양지점은 중형 커피머신에서 마음대로 커피를 내려먹을 수 있고, 냉장고에서 레몬티, 아이스커피와 각종 차들을 즐기실 수 있습니다.
