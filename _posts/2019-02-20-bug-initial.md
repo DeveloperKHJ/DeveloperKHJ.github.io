@@ -1,7 +1,7 @@
 ---
 title: "Bug가 최초로 입증된 사례"
-date: 2019-02-19 18:23:00 +0900
-categories: QCYT1 Tech
+date: 2019-02-20 19:07:00 +0900
+categories: Story Tech
 comments: true
 ---
 
