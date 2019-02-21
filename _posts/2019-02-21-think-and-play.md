@@ -6,8 +6,10 @@ comments: true
 ---
 
 최근에 한 동영상을 봤는데 너무 유익한 영상이라 공유해본다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L6BJBapYQ2k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-{ % youtube https://www.youtube.com/watch?v=L6BJBapYQ2k % }
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L6BJBapYQ2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {영상 내용}
 
