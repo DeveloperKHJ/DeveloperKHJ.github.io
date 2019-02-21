@@ -8,9 +8,6 @@ comments: true
 최근에 한 동영상을 봤는데 너무 유익한 영상이라 공유해본다.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L6BJBapYQ2k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L6BJBapYQ2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 {영상 내용}
 
 행동을 하지 못하는 이유 = 너무 똑똑해서
