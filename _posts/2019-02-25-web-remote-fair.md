@@ -1,5 +1,5 @@
 ---
-title: "코딩 테스트 통과"
+title: "코딩 테스트"
 date: 2019-02-25 18:59:00 +0900
 categories: Life
 comments: true
