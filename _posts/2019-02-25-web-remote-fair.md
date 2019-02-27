@@ -23,7 +23,7 @@ comments: true
 
 한 30분만 더있었으면 풀 수 있었을 텐데 아쉽다.
 
-![ccl-inside](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/coding-test-pass.png?raw=true)
+![coding-test](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/coding-test-pass.png?raw=true)
 
 
 근데 오늘 이메일이 왔다. 코딩 테스트 합격!
