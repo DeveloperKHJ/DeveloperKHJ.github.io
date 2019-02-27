@@ -9,9 +9,43 @@ comments: true
 
 안그래도 간헐적 단식 중인데 식단 자체도 조금 관리해야 할 것 같아서 프리미엄 샐러드를 먹고싶어서다.
 
-![fc-menu](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/coding-test-pass.png?raw=true)
+![fc-menu](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/fc-menu.png?raw=true)
 
-![fc-box](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/coding-test-pass.png?raw=true)
-프레시 코드를
+메뉴는 대충 이런식이다. 일단 재료가 신선하고 구성이 좋다. 필요에 맞는 영양을 잘 맞춘 것 같다.
 
-![fc-salad](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/coding-test-pass.png?raw=true)
+본인의 양에 따라 스몰, 레귤러, 점보로 크기가 나누어져있다. 샐러드 특성상 배가 많이 안차기 때문에 매번 점보로 시킨다.
+
+보통 성인 체중인 내게 점보 크기 샐러드면 배부르지도 배고프지도 않고 적당하게 포만감이 드는 정도다.
+
+가격이 부담되시는 분도 있을 수 있다. 근데 나는 매일 3끼먹던걸 2끼로 줄이면서 프레시코드를 선택한거니 하루 식비는 동일하다.
+
+또 좋은점은 서울에 사시는 분이라면 '프코스팟'이라는 것을 이용할 수 있다. 프코스팟은 배송비가 무료인 대신 이 장소로 가서 샐러드를 픽업해 와야 한다. 프코스팟에 가까이 사시는 분들이라면 배송비 없이 주문할 수 있다.
+
+안타깝게도 프코스팟은 서울에만 분포되어있다. 아직 스타트업이기 때문에 규모가 크지 않아서다.
+
+다른 배송 옵션은 퀵배송과 새벽배송이 있는데, 퀵배송은 서울에 사시는 분들에게 밤시간을 제외하고 바로 배달을 해주는 서비스고
+
+새벽배송은 수도권(서울, 경기, 인천) 새벽에 배송해주는 서비스다. 당일 배송은 안되고 전날 오후 몇시까지 주문을 완료하면
+
+그 다음날 새벽 5시쯤 받아볼 수 있다. (새벽배송은 3만원 이상 주문시 배송비 무료다.)
+
+![fc-box](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/freshcode-box.jpg?raw=true)
+
+배송은 다음과 같은 박스에 오는데 내부가 특이하다. 온도유지를 해주는 박스라고 한다. 아이스팩과 샐러드, 플라스틱 포크와 손수건이 같이 온다.
+
+![fc-salad](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/freshcode-salad.jpg?raw=true)
+실물은 이렇게 생겼다. 받아서 냉장보관하고 권장 유통기한은 배송 받은뒤 72시간.
+
+앞으로도 계속 먹을 것 같다. 앞으로 들어갈 회사에 프레시코드 제휴해준 회사면 행복할 것 같다 ㅎㅎ.
+
+여하튼 프리미엄 샐러드에 대한 수요가 있으신 분들은 프레시코드 적극 추천해드린다.
+
+혹시나 프레시코드 신규가입을 하시는 분들이라면
+
+추천 코드 : a0c465bcaa  를 입력하시면 3000 마일리지를 받으실 수 있다.
+
+아니면 바로 아래 링크로 접속해 가입하시면 바로 추천 코드 마일리지를 적립 할 수 있다.
+
+https://www.freshcode.me/user/register?promoCode=a0c465bcaa
+
+그럼 오늘 포스팅 끝!
