@@ -9,6 +9,8 @@ comments: true
 
 ![images](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/movie_app.png?raw=true)
 
+[영화정보 웹 둘러보기 link](https://developerkhj.github.io/movie_app/)
+
 다음과 같이 홈페이지에 접속하면 api를 통해 영화 관련 데이터베이스를 받아와서 HTML, CSS를 이용해 잘 정리된 화면을 출력하는 겁니다.
 
 화면의 영화 목록은 다운로드 수를 기준으로 TOP 20 영화의 목록입니다.
