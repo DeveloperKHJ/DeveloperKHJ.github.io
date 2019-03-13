@@ -5,7 +5,7 @@ categories: Excercise Kettlebel
 comments: true
 ---
 
-![images](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/kettlbell.jpg?raw=true)
+![images](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/kettlebell.jpg?raw=true)
 
 홈 엑서사이즈 요량으로 케틀벨을 하나 구입했습니다. 좋은 생활 습관을 들이기엔 운동만한게 없죠.
 
