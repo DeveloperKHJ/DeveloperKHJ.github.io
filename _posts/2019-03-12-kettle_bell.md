@@ -1,6 +1,6 @@
 ---
 title: "케틀벨"
-date: 2019-03-11 23:48:00 +0900
+date: 2019-03-12 23:48:00 +0900
 categories: Excercise Kettlebel
 comments: true
 ---
