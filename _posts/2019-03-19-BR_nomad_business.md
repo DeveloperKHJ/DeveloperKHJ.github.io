@@ -8,8 +8,8 @@ comments: true
 ![images](https://github.com/DeveloperKHJ/DeveloperKHJ.github.io/blob/master/_images/BR_nomad_business.jpg?raw=true)
 
  책 이름 : 노마드 비즈니스맨
-독서 시작 : 3월 4일
-완독 날짜 : 3월 14일
+독서 시작 : 3월 19일
+완독 날짜 : 3월 19일
     평점 : ★ (1.0/5.0)
     서평 : 
 
